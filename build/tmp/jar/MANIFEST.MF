@@ -1,0 +1,9 @@
+Manifest-Version: 1.0
+Specification-Title: tutorialmod
+Specification-Vendor: tutorialmodsareus
+Specification-Version: 1
+Implementation-Title: ModGeckoIntegration
+Implementation-Version: 1.16.5-0.1a
+Implementation-Vendor: tutorialmodsareus
+Implementation-Timestamp: 2022-07-20T15:20:11-0500
+
